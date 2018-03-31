@@ -1,6 +1,7 @@
 
 
  //Write a program in C to display the first 10 natural numbers
+//Output :1 2 3 4 5 6 7 8 9 10
 public class ForLoop {
 
 	public static void main(String[] args) {
@@ -14,3 +15,5 @@ public class ForLoop {
 	}
 
 }
+
+
