@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 //Write a program in C to display n terms of natural number and their sum
 //Test Data : 7 
